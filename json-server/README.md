@@ -1,7 +1,7 @@
 # JSON-SERVER
 > A full fake REST API
 
-#### **DESCRIÇÃO**
+#### **DESCRIPTION**
 This is a full fake REST API. With it, you can test your front-end aplication without necessity to develop a backend before.
 
 #### **HOW TO USE**
